@@ -1,6 +1,8 @@
 # Laboratorio de extracción estructurada con LLM
 
-Herramienta de línea de comandos en Python para convertir texto libre en JSON validado. Sirve para prototipar extracciones de datos de reclamos, solicitudes de soporte u otros textos. El tema se define en Markdown mediante reglas de extracción, campos de entrada y salida, y ejemplos. Para adaptar la herramienta a otro tema, editá ese archivo.
+**Código de ejemplo para pruebas y prototipos.**
+
+La herramienta convierte texto libre de reclamos, solicitudes de soporte u otros temas en JSON validado desde la línea de comandos. Cada tema se define en Markdown mediante reglas de extracción, campos de entrada y salida, y ejemplos. Para adaptar la herramienta a otro tema, editá ese archivo.
 
 El repositorio incluye dos temas con datos sintéticos.
 
